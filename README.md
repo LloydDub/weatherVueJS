@@ -1,4 +1,6 @@
-# weather
+# weatherVue
+
+WeatherVue is a simple weather project to get myself familar with the project set up process and the basics of Vue.Js
 
 ## Project setup
 ```
