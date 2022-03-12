@@ -24,5 +24,12 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
+### ScreenShots
 
-5e23803e2e209d40d32345f556ff0e96
+When the weather is cold the background of the screen will change to a chilly looking state.
+
+![ScreenShot](./images/cold.png)
+
+When the weather is hot the background of the screen will change to a warmer looking state.
+
+![ScreenShot](./images/hot.png)
